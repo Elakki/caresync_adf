@@ -1,0 +1,15 @@
+{
+	"name": "azurelearnelakki",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f662eb8c-c2e5-4d34-b500-3b16c8c9ff27",
+		"tenantId": "05ca5070-fee2-48e0-8626-622bbc5ce7e3"
+	}
+}
